@@ -1,0 +1,34 @@
+
+.table{
+    margin: auto;
+}
+td{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+    
+}
+#V{
+    background-color: violet;
+}
+#I{
+    background-color: indigo;
+}
+#B{
+    background-color: blue;
+}
+#G{
+    background-color: green;
+}
+#Y{
+    background-color: yellow;
+}
+#O{
+    background-color: orange;
+}
+#R{
+    background-color: red;
+}
